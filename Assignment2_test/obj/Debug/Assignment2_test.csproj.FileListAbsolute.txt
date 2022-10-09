@@ -1,0 +1,8 @@
+C:\Users\danie\OneDrive\Skrivebord\Skole\2.sem\TST\Assignment2_test\Assignment2_test\Assignment2_test\bin\Debug\Assignment2_test.exe.config
+C:\Users\danie\OneDrive\Skrivebord\Skole\2.sem\TST\Assignment2_test\Assignment2_test\Assignment2_test\bin\Debug\Assignment2_test.exe
+C:\Users\danie\OneDrive\Skrivebord\Skole\2.sem\TST\Assignment2_test\Assignment2_test\Assignment2_test\bin\Debug\Assignment2_test.pdb
+C:\Users\danie\OneDrive\Skrivebord\Skole\2.sem\TST\Assignment2_test\Assignment2_test\Assignment2_test\obj\Debug\Assignment2_test.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Skrivebord\Skole\2.sem\TST\Assignment2_test\Assignment2_test\Assignment2_test\obj\Debug\Assignment2_test.csproj.SuggestedBindingRedirects.cache
+C:\Users\danie\OneDrive\Skrivebord\Skole\2.sem\TST\Assignment2_test\Assignment2_test\Assignment2_test\obj\Debug\Assignment2_test.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Skrivebord\Skole\2.sem\TST\Assignment2_test\Assignment2_test\Assignment2_test\obj\Debug\Assignment2_test.exe
+C:\Users\danie\OneDrive\Skrivebord\Skole\2.sem\TST\Assignment2_test\Assignment2_test\Assignment2_test\obj\Debug\Assignment2_test.pdb

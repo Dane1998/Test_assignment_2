@@ -1,0 +1,5 @@
+C:\Users\danie\OneDrive\Skrivebord\Skole\2.sem\TST\Assignment2_test\Assignment2_test\BowlingGame\obj\Debug\net6.0\BowlingGame.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Skrivebord\Skole\2.sem\TST\Assignment2_test\Assignment2_test\BowlingGame\obj\Debug\net6.0\BowlingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Skrivebord\Skole\2.sem\TST\Assignment2_test\Assignment2_test\BowlingGame\obj\Debug\net6.0\BowlingGame.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Skrivebord\Skole\2.sem\TST\Assignment2_test\Assignment2_test\BowlingGame\obj\Debug\net6.0\BowlingGame.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Skrivebord\Skole\2.sem\TST\Assignment2_test\Assignment2_test\BowlingGame\obj\Debug\net6.0\BowlingGame.csproj.CoreCompileInputs.cache
