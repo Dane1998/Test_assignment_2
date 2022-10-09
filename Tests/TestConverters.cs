@@ -3,7 +3,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 using System.Runtime.CompilerServices;
 
-namespace Converter_test
+namespace Tests
 
 {
     [TestClass]
