@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xf8zR2Ak0Fl/MstQV9I+jynpjMUm7eMARxqiNDLitP2/VaFaD51SO4pgGtMebSll0pL4K5qNz+Sq/d6PyU04FQ==",
+  "dgSpecHash": "7uNyN8F7bmQbSIlwzl7u10w0whta6X+yGEtRuuTkeqRSo6laBpLgWSUiZm4fSergP5Bc3Bg5tkETfJvbje/3jQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\danie\\OneDrive\\Skrivebord\\Skole\\2.sem\\TST\\Assignment2_test\\Assignment2_test\\Converter_test\\Converter_test.csproj",
+  "projectFilePath": "C:\\Users\\danie\\OneDrive\\Skrivebord\\Skole\\2.sem\\TST\\Assignment2_test\\Assignment2_test\\Converter_test\\Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danie\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\danie\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

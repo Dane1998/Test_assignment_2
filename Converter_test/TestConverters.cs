@@ -7,7 +7,7 @@ namespace Converter_test
 
 {
     [TestClass]
-    public class UnitTest1
+    public class TestConverters
     {
 
         [TestMethod]

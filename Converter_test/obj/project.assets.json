@@ -6372,9 +6372,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\danie\\OneDrive\\Skrivebord\\Skole\\2.sem\\TST\\Assignment2_test\\Assignment2_test\\Converter_test\\Converter_test.csproj",
-      "projectName": "Converter_test",
-      "projectPath": "C:\\Users\\danie\\OneDrive\\Skrivebord\\Skole\\2.sem\\TST\\Assignment2_test\\Assignment2_test\\Converter_test\\Converter_test.csproj",
+      "projectUniqueName": "C:\\Users\\danie\\OneDrive\\Skrivebord\\Skole\\2.sem\\TST\\Assignment2_test\\Assignment2_test\\Converter_test\\Tests.csproj",
+      "projectName": "Tests",
+      "projectPath": "C:\\Users\\danie\\OneDrive\\Skrivebord\\Skole\\2.sem\\TST\\Assignment2_test\\Assignment2_test\\Converter_test\\Tests.csproj",
       "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\danie\\OneDrive\\Skrivebord\\Skole\\2.sem\\TST\\Assignment2_test\\Assignment2_test\\Converter_test\\obj\\",
       "projectStyle": "PackageReference",
